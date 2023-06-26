@@ -1,16 +1,20 @@
-# foodapp2
+<center>
 
-A new Flutter project.
+## Slicing FoodApp-UI with Flutter❤️✈️
 
-## Getting Started
+<h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td align="center"><img src="https://i.postimg.cc/1tdGgXxv/Screenshot-2023-06-26-at-08-42-55.png" alt="Screenshot 1" width="300"></td>
+    <td align="center"><img src="https://i.postimg.cc/kD3WcHg8/Screenshot-2023-06-26-at-08-42-57.png" alt="Screenshot 1" width="300"></td>
+    
+  </tr>
+  
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/p/Ctwf9mNBdWn/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</center>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
